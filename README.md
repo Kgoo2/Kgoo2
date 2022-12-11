@@ -1,4 +1,15 @@
-[![MasterHead](https://static-cdn.jtvnw.net/jtv_user_pictures/16cc9673-a1bb-4538-9c32-321408b37847-profile_image-150x150.png)](https://github.com/Kgoo2)
+<!---[![MasterHead](https://media.licdn.com/dms/image/C5603AQGL7C0Zj806xw/profile-displayphoto-shrink_200_200/0/1623337309728?e=1676505600&v=beta&t=4NK-RnOGddRzYpWVn9DA8BfPKqN0p-MhHfiopDex7-s)](https://github.com/Kgoo2)--->
+
+  <img align="left" alt="Coding" width="200" src="https://media.licdn.com/dms/image/C5603AQGL7C0Zj806xw/profile-displayphoto-shrink_200_200/0/1623337309728?e=1676505600&v=beta&t=4NK-RnOGddRzYpWVn9DA8BfPKqN0p-MhHfiopDex7-s">
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kegangoo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
 - 👋 Hi, I’m Kegan
 - 👀 I’m interested in Front-End development, C# .NET engineering, Embedded systems, Neural Networks and Deep Learning, BioInformatics, and my own personal app! (Also Tennis and Volleyball)
 - 🌱 I’m currently learning about neural networks and deep learning. I'd like to apply these concepts to bionformatics
