@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0D971F&width=435&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
-  <img align="left" alt="Coding" width="200" src="https://media.licdn.com/dms/image/C5603AQGL7C0Zj806xw/profile-displayphoto-shrink_200_200/0/1623337309728?e=1676505600&v=beta&t=4NK-RnOGddRzYpWVn9DA8BfPKqN0p-MhHfiopDex7-s">
+ <!---<img align="left" alt="Coding" width="200" src="https://media.licdn.com/dms/image/C5603AQGL7C0Zj806xw/profile-displayphoto-shrink_200_200/0/1623337309728?e=1676505600&v=beta&t=4NK-RnOGddRzYpWVn9DA8BfPKqN0p-MhHfiopDex7-s">--->
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
