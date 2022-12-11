@@ -5,7 +5,7 @@
 - 📫 How to reach me, contact kgoo2@asu.edu
 - Due to the academic overlap of my projects with ASU, they're primarily private since other students can access github and essentially grab code. All of my projects will be released upon my graduation in May of 2023.
 
-![](https://komarev.com/ghpvc/?username=Kgoo2&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=Kgoo2&color=blueviolet&style=flat)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kgoo2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
