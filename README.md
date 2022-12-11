@@ -1,4 +1,4 @@
-[![MasterHead](https://static-cdn.jtvnw.net/jtv_user_pictures/16cc9673-a1bb-4538-9c32-321408b37847-profile_image-300x300.png=250x250)](https://github.com/Kgoo2)
+[![MasterHead](https://static-cdn.jtvnw.net/jtv_user_pictures/16cc9673-a1bb-4538-9c32-321408b37847-profile_image-150x150.png)](https://github.com/Kgoo2)
 - 👋 Hi, I’m Kegan
 - 👀 I’m interested in Front-End development, C# .NET engineering, Embedded systems, Neural Networks and Deep Learning, BioInformatics, and my own personal app! (Also Tennis and Volleyball)
 - 🌱 I’m currently learning about neural networks and deep learning. I'd like to apply these concepts to bionformatics
