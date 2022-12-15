@@ -24,7 +24,7 @@
 
 [![](https://img.shields.io/badge/-🚧%20My%20Website-000)](https://kegangoo.info/projects)
 
-### Cybersecurity Projects
+### Project Stats
 
 [![](https://img.shields.io/badge/-🧬%BioInformatics-000)](https://github.com/Kgoo2/Bioinformatics-)
 
