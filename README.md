@@ -1,3 +1,15 @@
+<p align="left">
+ <img width="150" height="150" src=https://static-cdn.jtvnw.net/jtv_user_pictures/16cc9673-a1bb-4538-9c32-321408b37847-profile_image-300x300.png>
+ </p>
+ 
+ 
+- 👋 Hi, I’m Kegan
+- 👀 I’m interested in practically everything software engineering. From Front-End to Back-End, Embedded Systems, AI, and BioInformatics. (Also Tennis and Volleyball)
+- 🌱 I’m currently learning about ANNs, BioInformatics (Python), Kubernetes, Docker, Cloud architecture, and AWS. 
+- 💞️ I’m looking to collaborate on fun projects that utilize microservices to do interesting, cool, and useful things with data.
+- 📫 How to reach me, contact kgoo2@asu.edu or checkout [my website](https://kegangoo.info/).
+- Due to the academic overlap of my projects with ASU, project source code is currently private. All of my projects will be released upon my graduation in May of 2023.
+
 
 ### Languages
 
@@ -30,15 +42,6 @@
 
 <a href="https://www.kegangoo.info/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kgoo2&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" /><!-- wi*quL3fcV --><img height="137px" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgoo2&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark" /></a>
-
-
-
-- 👋 Hi, I’m Kegan
-- 👀 I’m interested in Front-End development, C# .NET engineering, Embedded systems, Neural Networks and Deep Learning, BioInformatics, and my own personal app! (Also Tennis and Volleyball)
-- 🌱 I’m currently learning about neural networks and deep learning. I'd like to apply these concepts to bionformatics
-- 💞️ I’m looking to collaborate on fun projects that utilize microservices to do interesting, cool, and useful things with data.
-- 📫 How to reach me, contact kgoo2@asu.edu
-- Due to the academic overlap of my projects with ASU, they're primarily private since other students can access github and essentially grab code. All of my projects will be released upon my graduation in May of 2023.
 
 <!---
 Kgoo2/Kgoo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
