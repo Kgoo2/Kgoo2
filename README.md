@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 
 <!--END_SECTION:waka-->
 
-![](https://camo.githubusercontent.com/824775b7c65b78d9ec06a98173140b826eb32dc36f066f1a9659c8567308c0db/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f7465722677696474683d313030)
+![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
