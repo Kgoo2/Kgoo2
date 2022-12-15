@@ -40,7 +40,7 @@
 
 [![](https://img.shields.io/badge/-🧬%BioInformatics-000)](https://github.com/Kgoo2/Bioinformatics-)
 
-![](https://komarev.com/ghpvc/?kgoo2&color=blueviolet)
+![](https://komarev.com/ghpvc/?Kgoo2&color=blueviolet)
 
 <a href="https://www.kegangoo.info/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kgoo2&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" /><!-- wi*quL3fcV --><img height="137px" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgoo2&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark" /></a>
