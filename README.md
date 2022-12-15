@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 
 <!--END_SECTION:waka-->
 
-![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![](https://raw.githubusercontent.com/Kgoo2/ReadMeRawCode/main/WaveSVG)
