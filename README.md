@@ -7,7 +7,6 @@
 - 👀 I’m interested in practically everything software engineering. From Front-End to Back-End, Embedded Systems, AI, and BioInformatics. (Also Tennis and Volleyball)
 - 🌱 I’m currently learning about ANNs, BioInformatics (Python), Kubernetes, Docker, Embedded systems programming (low level c), and hardware robotics design
 - 💞️ I’m looking to collaborate on fun projects that utilize microservices to do interesting, cool, and useful things with data.
-- 📫 How to reach me, contact kgoo2@asu.edu or checkout [my website](https://kegangoo.info/).
 - Due to the academic overlap of my projects with ASU, project source code is currently private. All of my projects will be released upon my graduation in May of 2023.
 
 
