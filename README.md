@@ -7,7 +7,7 @@
 - 👀 I’m interested in practically everything software engineering. From Front-End to Back-End, Embedded Systems, AI, and BioInformatics. (Also Tennis and Volleyball)
 - 🌱 I’m currently learning sharpening my software engineering skills as well as diving deeper into Python for automation and data analysis.
 - 💞️ I’m looking to collaborate on fun projects that utilize microservices to do interesting, cool, and useful things with data.
-- ❗For access to my academic projects, please contact me at ###gookegan.se@gmail.com
+- ❗For access to my academic projects, please contact me at <h3>gookegan.se@gmail.com</h3>
 
 
 ### Languages
