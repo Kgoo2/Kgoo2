@@ -4,7 +4,7 @@
  
  
 - 👋 Hi, I’m Kegan
-- 👀 I’m interested in software architecture, data analysis, and software engineering as a whole. (Also Tennis and Volleyball)
+- 👀 I’m interested in software architecture, automation engineering, and software engineering as a whole. (Also Tennis and Volleyball)
 - 🌱 I’m currently learning sharpening my software engineering skills as well as diving deeper into Python for automation and data analysis.
 - 💞️ I’m looking to collaborate on fun projects that utilize microservices to do interesting, cool, and useful things with data.
 
@@ -22,11 +22,18 @@
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+### Technologies
+
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Podman](https://img.shields.io/badge/-Podman-000?&logo=Podman)
+![RHEL](https://img.shields.io/badge/-RHEL-000?&logo=Red-Hat)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=SQLAlchemy)
+![Automation](https://img.shields.io/badge/-Automation-000?&logo=Robot-Framework)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![PyTest](https://img.shields.io/badge/-PyTest-000?&logo=Pytest)
+
 
 ### Full Stack Projects
 
