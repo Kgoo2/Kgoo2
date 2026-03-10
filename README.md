@@ -4,10 +4,8 @@
  
  
 - 👋 Hi, I’m Kegan
-- 👀 I’m interested in software architecture, automation engineering, and software engineering as a whole. (Also Tennis and Volleyball)
-- 🌱 I’m currently learning sharpening my software engineering skills as well as diving deeper into Python for automation and data analysis.
-- 💞️ I’m looking to collaborate on fun projects that utilize microservices to do interesting, cool, and useful things with data.
-
+- 👀 I’m interested in software architecture, automation engineering, and software engineering as a whole.
+- 🌱 I’m currently figuring it out!
 
 ### Languages
 
