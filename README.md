@@ -5,7 +5,7 @@
  
 - 👋 Hi, I’m Kegan
 - 👀 I’m interested in software architecture, automation engineering, and software engineering as a whole.
-- 🌱 I’m currently figuring it out!
+- 🌱 I’m currently building a pokemon app! https://whatismypokemoncardworth.onrender.com/
 
 ### Languages
 
